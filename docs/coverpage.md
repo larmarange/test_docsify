@@ -1,10 +1,10 @@
 # 💻
 
 <h1 id="cover-heading">
-  My Open Publishing Space
+  Livre test docsify
 </h1>
 
-> Create, Share and Collaborate
+> Un test pour expérimenter [Docsify](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
 
-[Explore](home)
-[GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
+[Lire](home)
+[Code Source GitHub](https://github.com/larmarange/test_docsify)
